@@ -30,7 +30,7 @@ It revolves around an application designed in MATLAB code which:
 - Double click on the "fm_demod.slx" file in the 'Current Folder' window
 - Click on the "Run" button to start model simulation
 
-## Prerequisites
+# Prerequisites
 
 To use the RT FM SDRadio, the tools needed are:
 
