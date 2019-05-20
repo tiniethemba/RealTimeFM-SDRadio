@@ -12,7 +12,23 @@ It revolves around an application designed in MATLAB code which:
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+### To use the application:
+- Start MATLAB on your machine
+- Double click on the "Real_Time_FM_Demod.mlapp" file in the 'Current Folder' window
+- The app window will popup, after which simulation parameters can be selected and run by clicking the interactive buttons
+
+### To view or edit the application design and/or functionality:
+- Start MATLAB on your machine
+- Open the App Designer client in MATLAB by typing "appdesigner" to the command window
+- In App Designer, open the "Real_Time_FM_Demod.mlapp" file by double clicking on it
+- Access the source code by clicking on the "Code View" tab
+- Access the application's UI design by clicking on the "Design View" tab.
+- To execute the application after changes have been made, click the "Run" button in App Designer 
+
+### To use the Simulink model:
+- Start MATLAB on your machine
+- Double click on the "fm_demod.slx" file in the 'Current Folder' window
+- Click on the "Run" button to start model simulation
 
 ## Prerequisites
 
