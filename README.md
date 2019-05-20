@@ -1,6 +1,7 @@
 Welcome to the Real Time FM SDRadio
 
-This repository contains the final year MEng project of Themba Kaonga
+This repository contains the final year MEng project of Themba Kaonga.
+
 It revolves around an application designed in MATLAB code which:
 
 - Demodulates FM complex baseband data from an SDR
